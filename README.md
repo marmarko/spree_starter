@@ -5,7 +5,7 @@ This a dockerized [Spree Commerce](https://spreecommerce.org) application templa
 ## Deploy in the cloud
 
 ### Using Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy?template=https://github.com/marmarko/spree_starter])
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/marmarko/spree_starter)
 
 ### Using Render
 <a href="https://render.com/deploy?repo=https://github.com/spree/spree_starter/tree/main">
